@@ -13,3 +13,6 @@ h2{
     background-color: aquamarine;
     color: aqua;
 }
+body{
+    background-image: none;
+}
