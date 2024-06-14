@@ -1,1 +1,2 @@
-print(Tokyo University of Technology)
+print("helloworld")
+print("Tokyo University of Technology")
